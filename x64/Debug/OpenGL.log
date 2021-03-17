@@ -1,0 +1,5 @@
+﻿  Texture.cpp
+C:\Users\marti\source\repos\OpenGL\OpenGL\Header.h(44,40): warning C4101: 'e': unreferenced local variable
+C:\Users\marti\source\repos\OpenGL\OpenGL\Texture.cpp(245,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\source\repos\OpenGL\OpenGL\Texture.cpp(246,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\marti\source\repos\OpenGL\x64\Debug\OpenGL.exe
